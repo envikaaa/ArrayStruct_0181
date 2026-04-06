@@ -39,4 +39,8 @@ int main () {
     }
     cout << endl;
     // menampilkan dengan menggunakan perulangan for
+    for (int i = 0; i <= 4 i++)
+    {
+        cout << "Data ke-" << i+1 << " = " << kamu[i] << endl;
+    }
 }
